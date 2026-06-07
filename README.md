@@ -68,7 +68,7 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 ---
 
 ## Author
-sneha H
-GitHub: snehah13
+Priyanka M
+GitHub: priyankamadawal1993-cmyk
 
 
